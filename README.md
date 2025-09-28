@@ -40,5 +40,4 @@ Logistic Regression
 Naive Bayes
 
 SVM (LinearSVC)
-![Input Screenshot](input.png)
 
